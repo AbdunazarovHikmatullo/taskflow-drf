@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Виртуальное окружение
+.venv/
+venv/
+
+# Переменные окружения
+.env
+
+# Django
+db.sqlite3
+/staticfiles/
+/media/
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
